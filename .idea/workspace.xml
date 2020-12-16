@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="" />
+    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.16" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,8 +67,20 @@
       <option name="presentableId" value="Default" />
       <updated>1608126875512</updated>
       <workItem from="1608126876616" duration="138000" />
+      <workItem from="1608127024603" duration="338000" />
     </task>
+    <task id="LOCAL-00001" summary="12.16">
+      <created>1608127088701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608127088701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -80,11 +92,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.16" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608126906440">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608127099004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608126906440" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608127099004" />
+    <state x="334" y="130" key="new project wizard" timestamp="1608127357273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608127357273" />
   </component>
 </project>
