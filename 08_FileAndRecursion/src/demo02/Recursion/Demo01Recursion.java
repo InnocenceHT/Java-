@@ -16,7 +16,15 @@ package demo02.Recursion;
 public class Demo01Recursion {
 
     public static void main(String[] args) {
-        a();
+//        a();
+        b(1);
+    }
+
+    /*
+        在递归中虽然有限定条件，但是递归的次数不能太多，否则也会发生栈内存溢出
+     */
+    private static void b(int i) {
+
     }
 
     private static void a() {
