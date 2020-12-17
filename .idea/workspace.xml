@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.17">
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo01/OutputStream/Demo02OutputStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/src/demo01/OutputStream/Demo01OutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo01/OutputStream/Demo01OutputStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +55,46 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo02OutputStream">
+    <configuration name="Demo01OutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.OutputStream.Demo01OutputStream" />
+      <module name="09_IOAndProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.OutputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo01Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo02.Recursion.Demo01Recursion" />
       <module name="08_FileAndRecursion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="demo02.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02OutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.OutputStream.Demo02OutputStream" />
+      <module name="09_IOAndProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.OutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,6 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02OutputStream" />
+        <item itemvalue="Application.Demo01OutputStream" />
         <item itemvalue="Application.Demo01Recursion" />
       </list>
     </recent_temporary>
@@ -98,7 +131,7 @@
       <updated>1608126875512</updated>
       <workItem from="1608126876616" duration="138000" />
       <workItem from="1608127024603" duration="1765000" />
-      <workItem from="1608166765469" duration="3083000" />
+      <workItem from="1608166765469" duration="6276000" />
     </task>
     <task id="LOCAL-00001" summary="12.16">
       <created>1608127088701</created>
@@ -128,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608168401843</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12.17">
+      <created>1608179172487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608179172487</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +187,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="12.16" />
     <MESSAGE value="12.17" />
     <option name="LAST_COMMIT_MESSAGE" value="12.17" />
@@ -156,33 +197,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608127542423" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1608128192055">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1608182145942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608128192055" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1608128192055">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608182145942" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1608182145942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608128192055" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1608128192055">
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608182145942" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1608182145942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608128192055" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1608128192055">
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608182145942" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1608182145942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608128192055" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608182145942" />
     <state x="922" y="164" key="SettingsEditor" timestamp="1608168507706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608168507706" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608168413733">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608179179733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608168413733" />
-    <state x="334" y="130" key="new project wizard" timestamp="1608127357273">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608179179733" />
+    <state x="631" y="260" key="new project wizard" timestamp="1608179077710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608127357273" />
+    <state x="631" y="260" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608179077710" />
   </component>
 </project>
