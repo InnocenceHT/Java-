@@ -23,4 +23,8 @@ public class Demo01Recursion {
         System.out.println("a方法！");
         a();
     }
+
+    private static void b() {
+
+    }
 }
