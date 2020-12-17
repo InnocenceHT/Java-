@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.16">
-      <change beforePath="$PROJECT_DIR$/08_FileAndRecursion/src/demo02/Recursion/Demo01Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_FileAndRecursion/src/demo02/Recursion/Demo01Recursion.java" afterDir="false" />
+    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.17">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Demo01Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -97,7 +98,7 @@
       <updated>1608126875512</updated>
       <workItem from="1608126876616" duration="138000" />
       <workItem from="1608127024603" duration="1765000" />
-      <workItem from="1608166765469" duration="968000" />
+      <workItem from="1608166765469" duration="3083000" />
     </task>
     <task id="LOCAL-00001" summary="12.16">
       <created>1608127088701</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608127671004</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12.17">
+      <created>1608168401843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608168401843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.16" />
+    <MESSAGE value="12.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.17" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="86" key="DiffContextDialog" timestamp="1608127542423">
@@ -163,10 +172,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608128192055" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608127677714">
+    <state x="922" y="164" key="SettingsEditor" timestamp="1608168507706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608127677714" />
+    <state x="922" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608168507706" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608168413733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608168413733" />
     <state x="334" y="130" key="new project wizard" timestamp="1608127357273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
