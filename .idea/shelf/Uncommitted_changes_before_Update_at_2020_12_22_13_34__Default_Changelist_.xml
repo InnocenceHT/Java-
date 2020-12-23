@@ -1,0 +1,29 @@
+<changelist name="Uncommitted_changes_before_Update_at_2020_12_22_13_34_[Default_Changelist]" date="1608615302987" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_22_13_34_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2020/12/22 13:34 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/09_IOAndProperties/demo02/InputStream/Demo02InputStream.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/08_FileAndRecursion/demo02/Recursion/Demo01Recursion.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/09_IOAndProperties/demo01/OutputStream/Demo02OutputStream.class" />
+    <option name="AFTER_PATH" value="out/production/09_IOAndProperties/demo01/OutputStream/Demo02OutputStream.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_22_13_34_[Default_Changelist]/Demo02OutputStream.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/09_IOAndProperties/demo01/OutputStream/Demo03OutputStream.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/09_IOAndProperties/demo02/InputStream/Demo01InputStream.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
