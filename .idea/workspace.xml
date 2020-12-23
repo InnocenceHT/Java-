@@ -19,18 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.20">
-      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo04/Reader/Demo01InputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo04/Reader/Demo02Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo05/Writer/Demo01Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo05/Writer/Demo02CloseAndFlush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Net/11_Net.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_FunctionalInterface/12_FunctionalInterface.iml" afterDir="false" />
+    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.19">
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo05/Writer/Demo03Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo05/Writer/Demo04Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo06/TryCatch/Demo01TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_API/day01_API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/day05-code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_17_20_01_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_17_20_01__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/09_IOAndProperties/c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_FileAndRecursion/src/demo02/Recursion/Demo01Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_FileAndRecursion/src/demo02/Recursion/Demo01Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/09_IOAndProperties/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/src/demo01/OutputStream/Demo03OutputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/src/demo02/InputStream/Demo01InputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/src/demo02/InputStream/Demo02InputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/src/demo03/CopyFile/Dmo01CopyFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo02/Recursion/Demo01Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo01/OutputStream/Demo03OutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo02/InputStream/Demo01InputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo02/InputStream/Demo02InputStream.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +78,48 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.TCPClient">
-    <configuration name="Demo01Writer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05.Writer.Demo01Writer" />
+  <component name="RunManager" selected="Application.Demo01TryCatch">
+    <configuration name="Demo01InputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo02.InputStream.Demo01InputStream" />
+      <module name="09_IOAndProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo02.InputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo06.TryCatch.Demo01TryCatch" />
+      <module name="09_IOAndProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo06.TryCatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02InputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo02.InputStream.Demo02InputStream" />
+      <module name="09_IOAndProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo02.InputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03Writer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo05.Writer.Demo03Writer" />
       <module name="09_IOAndProperties" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02CloseAndFlush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05.Writer.Demo02CloseAndFlush" />
+    <configuration name="Demo04Writer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo05.Writer.Demo04Writer" />
       <module name="09_IOAndProperties" />
       <extension name="coverage">
         <pattern>
@@ -91,67 +140,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo04.Reader.Demo02Reader" />
-      <module name="09_IOAndProperties" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo04.Reader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.TCP.TCPClient" />
-      <module name="11_Net" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo01.TCP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.TCP.TCPServer" />
-      <module name="11_Net" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo01.TCP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TCPClient" />
-        <item itemvalue="Application.TCPServer" />
-        <item itemvalue="Application.Demo02CloseAndFlush" />
-        <item itemvalue="Application.Demo01Writer" />
-        <item itemvalue="Application.Demo02Reader" />
+        <item itemvalue="Application.Demo01TryCatch" />
+        <item itemvalue="Application.Demo04Writer" />
+        <item itemvalue="Application.Demo03Writer" />
+        <item itemvalue="Application.Demo02InputStream" />
+        <item itemvalue="Application.Demo01InputStream" />
       </list>
     </recent_temporary>
   </component>
@@ -166,8 +165,8 @@
       <workItem from="1608126876616" duration="138000" />
       <workItem from="1608127024603" duration="1765000" />
       <workItem from="1608384906017" duration="3331000" />
-      <workItem from="1608456137480" duration="1411000" />
-      <workItem from="1608551677661" duration="7008000" />
+      <workItem from="1608622863982" duration="893000" />
+      <workItem from="1608624498145" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="12.16">
       <created>1608127088701</created>
@@ -204,14 +203,7 @@
       <option name="project" value="LOCAL" />
       <updated>1608387300179</updated>
     </task>
-    <task id="LOCAL-00006" summary="12.20">
-      <created>1608456397132</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1608456397132</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,45 +225,44 @@
     <MESSAGE value="12.16" />
     <MESSAGE value="12.17" />
     <MESSAGE value="12.19" />
-    <MESSAGE value="12.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="86" key="DiffContextDialog" timestamp="1608127542423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608127542423" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1608558553439">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1608617923090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608558553439" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1608558553439">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608617923090" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1608617923090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608558553439" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1608558553439">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608617923090" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1608617923090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608558553439" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1608558553439">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608617923090" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1608617923090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608558553439" />
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608617923090" />
     <state x="922" y="168" key="SettingsEditor" timestamp="1608388177332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608388177332" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608456404237">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608388181247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608456404237" />
-    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608384910304">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608388181247" />
+    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608616932762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608384910304" />
-    <state x="669" y="178" key="new project wizard" timestamp="1608556157952">
+    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608616932762" />
+    <state x="334" y="130" key="new project wizard" timestamp="1608622912237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="178" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608556157952" />
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608622912237" />
   </component>
 </project>
