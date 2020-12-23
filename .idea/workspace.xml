@@ -19,11 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.21">
-      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo07/Prop/Demo01Properties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPServer.java" afterDir="false" />
+    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.23">
+      <change afterPath="$PROJECT_DIR$/IO/src/demo01/BufferedStream/Demo01BufferedOutputStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_IOAndProperties/src/demo07/Prop/Demo01Properties.java" beforeDir="false" afterPath="$PROJECT_DIR$/09_IOAndProperties/src/demo07/Prop/Demo01Properties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-code/day05-code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo06/TryCatch/Demo01TryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo06/TryCatch/Demo01TryCatch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +67,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.TCPClient (1)">
-    <configuration name="Demo02CloseAndFlush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05.Writer.Demo02CloseAndFlush" />
+  <component name="RunManager" selected="Application.Demo01Properties">
+    <configuration name="Demo01Properties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo07.Prop.Demo01Properties" />
       <module name="09_IOAndProperties" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo05.Writer.*" />
+          <option name="PATTERN" value="demo07.Prop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01Properties" />
         <item itemvalue="Application.TCPClient (1)" />
         <item itemvalue="Application.TCPServer (1)" />
         <item itemvalue="Application.TCPClient" />
         <item itemvalue="Application.TCPServer" />
-        <item itemvalue="Application.Demo02CloseAndFlush" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +174,7 @@
       <workItem from="1608551677661" duration="7225000" />
       <workItem from="1608642395981" duration="74000" />
       <workItem from="1608642521908" duration="3485000" />
+      <workItem from="1608707825330" duration="2848000" />
     </task>
     <task id="LOCAL-00001" summary="12.16">
       <created>1608127088701</created>
@@ -240,41 +252,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="12.21" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="880" y="94" key="#Project_Structure" timestamp="1608710645731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608710645731" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1608127542423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608127542423" />
-    <state width="914" height="276" key="GridCell.Tab.0.bottom" timestamp="1608645243605">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1608710236041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608645243605" />
-    <state width="914" height="276" key="GridCell.Tab.0.center" timestamp="1608645243605">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608710236041" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1608710236041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608645243605" />
-    <state width="914" height="276" key="GridCell.Tab.0.left" timestamp="1608645243605">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608710236041" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1608710236040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608645243605" />
-    <state width="914" height="276" key="GridCell.Tab.0.right" timestamp="1608645243605">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608710236040" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1608710236041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608645243605" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608710236041" />
     <state x="922" y="168" key="SettingsEditor" timestamp="1608388177332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608388177332" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608562014921">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608705795052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608562014921" />
-    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608642420888">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608705795052" />
+    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608705858182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608642420888" />
-    <state x="669" y="178" key="new project wizard" timestamp="1608556157952">
+    <state x="1243" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608705858182" />
+    <state x="669" y="178" key="new project wizard" timestamp="1608710614367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="178" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608556157952" />
+    <state x="669" y="178" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608710614367" />
   </component>
 </project>
