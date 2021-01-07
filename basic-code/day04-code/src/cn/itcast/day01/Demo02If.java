@@ -8,6 +8,7 @@ public class Demo02If {
             System.out.println("进入网吧，开始high！");
             System.out.println("遇到了一群猪队友，开始骂街。");
             System.out.println("感觉不爽，结账走人。");
+            System.out.println("今天感觉不错！");
 
         }
         System.out.println("回家吃饭");
