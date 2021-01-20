@@ -13,7 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/Middle_class/Middle_class.iml" filepath="$PROJECT_DIR$/Middle_class/Middle_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyPractice/MyPractice.iml" filepath="$PROJECT_DIR$/MyPractice/MyPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-code/basic-code.iml" filepath="$PROJECT_DIR$/basic-code/basic-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_enforce/basic_enforce.iml" filepath="$PROJECT_DIR$/basic_enforce/basic_enforce.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_API/day01_API.iml" filepath="$PROJECT_DIR$/day01_API/day01_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html&amp;css/html&amp;css.iml" filepath="$PROJECT_DIR$/html&amp;css/html&amp;css.iml" />
     </modules>
   </component>
 </project>

@@ -4,6 +4,7 @@ import java.util.HashSet;
 
 /*
     set集合不允许存储重复元素的原理
+
  */
 public class Demo02HashSetSaveString {
 

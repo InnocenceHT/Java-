@@ -5,6 +5,7 @@ import java.util.Collection;
 import java.util.Iterator;
 
 /*
+
     java.util.Iterator接口：迭代器（对集合进行遍历）
     有两个常用的方法：
         boolean hasNext()如果仍有元素可以迭代，则返回 true。
@@ -14,7 +15,7 @@ import java.util.Iterator;
 
     Iterator是一个接口，我们无法直接使用，需要使用Iterator接口的实现类对象，获取实现类的方法比较特殊：
     Collection接口中有一个方法，叫iterator(),这个方法返回的就是迭代器的实现类对象
-        Iterator<E> iterator()返回在此 collection 的元素上进行迭代的迭代器。
+        Iterator<E> iterator()返回在此Collection的元素上进行迭代的迭代器。
 
     迭代器的使用步骤【重点】：
         1.使用集合中的方法iterator()获取迭代器的实现类对象，使用Iterator接口接收（多态）

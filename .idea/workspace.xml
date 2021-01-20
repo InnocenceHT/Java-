@@ -19,27 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="12.21">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="1.7">
+      <change afterPath="$PROJECT_DIR$/basic_enforce/basic_enforce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_enforce/src/junit/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_enforce/src/junit/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_enforce/src/reflect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_enforce/src/reflect/ReflectDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_enforce/src/reflect/ReflectDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_enforce/src/test/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html&amp;css/html&amp;css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html&amp;css/src/img/4_css与HTML结合方式1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html&amp;css/src/img/4_css与HTML结合方式2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo01/OutputStream/Demo01OutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo01/OutputStream/Demo01OutputStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo01/OutputStream/Demo02OutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo01/OutputStream/Demo02OutputStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo03/CopyFile/Dmo01CopyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo04/Reader/Demo01InputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo04/Reader/Demo01InputStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo04/Reader/Demo02Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo04/Reader/Demo02Reader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo01Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo01Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo02CloseAndFlush.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo02CloseAndFlush.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo03Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo03Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo04Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo05/Writer/Demo04Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo06/TryCatch/Demo01TryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo06/TryCatch/Demo01TryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo07/Prop/Demo01Properties.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09_IOAndProperties/demo07/Prop/Demo01Properties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/10_IO/demo01/BufferedStream/Demo01BufferedStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/10_IO/demo01/BufferedStream/Demo01BufferedStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/10_IO/demo01/BufferedStream/Demo02BufferedInputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/10_IO/demo01/BufferedStream/Demo02BufferedInputStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo01Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo01Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo02Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo02Foreach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo01Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo01Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo02HashSetSaveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo02HashSetSaveString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middle_class/src/day03/demo03/hashCode/Demo01HashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day03/demo03/hashCode/Demo01HashCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -71,22 +69,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html&amp;css/src/img" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Demo02If">
-    <configuration name="Demo01BufferedStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.BufferedStream.Demo01BufferedStream" />
-      <module name="10_IO" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html&amp;css/src/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.4_css与HTML结合方式1.html">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.CalculatorTest" />
+      <module name="basic_enforce" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01.BufferedStream.*" />
+          <option name="PATTERN" value="junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day01.Demo01Sequence" />
-      <module name="basic-code" />
+    <configuration name="Demo01HashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo03.hashCode.Demo01HashCode" />
+      <module name="Middle_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day01.*" />
+          <option name="PATTERN" value="day03.demo03.hashCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02BufferedInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.BufferedStream.Demo02BufferedInputStream" />
-      <module name="10_IO" />
+    <configuration name="Demo02HashSetSaveString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo02.Set.Demo02HashSetSaveString" />
+      <module name="Middle_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01.BufferedStream.*" />
+          <option name="PATTERN" value="day03.demo02.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,25 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day01.Demo02If" />
-      <module name="basic-code" />
+    <configuration name="Demo04LinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo02.Set.Demo04LinkedHashSet" />
+      <module name="Middle_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TCPClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo02.FileUpload.TCPClient" />
-      <module name="11_Net" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo02.FileUpload.*" />
+          <option name="PATTERN" value="day03.demo02.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,26 +156,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="4_css与HTML结合方式1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java-/html&amp;css/img/4_css与HTML结合方式1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo02If" />
-        <item itemvalue="Application.Demo01Sequence" />
-        <item itemvalue="Application.Demo02BufferedInputStream" />
-        <item itemvalue="Application.Demo01BufferedStream" />
-        <item itemvalue="Application.TCPClient (1)" />
+        <item itemvalue="JavaScript Debug.4_css与HTML结合方式1.html" />
+        <item itemvalue="Application.CalculatorTest" />
+        <item itemvalue="Application.Demo01HashCode" />
+        <item itemvalue="Application.Demo04LinkedHashSet" />
+        <item itemvalue="Application.Demo02HashSetSaveString" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +195,16 @@
       <workItem from="1609917921163" duration="1059000" />
       <workItem from="1609930334387" duration="58000" />
       <workItem from="1609933495911" duration="167000" />
+      <workItem from="1609986730052" duration="578000" />
+      <workItem from="1610017520173" duration="11000" />
+      <workItem from="1610076775993" duration="4050000" />
+      <workItem from="1610367033192" duration="1659000" />
+      <workItem from="1610370753759" duration="1273000" />
+      <workItem from="1610456062909" duration="2466000" />
+      <workItem from="1610690289685" duration="2576000" />
+      <workItem from="1610719628662" duration="657000" />
+      <workItem from="1611108751293" duration="3000" />
+      <workItem from="1611119010829" duration="124000" />
     </task>
     <task id="LOCAL-00001" summary="12.16">
       <created>1608127088701</created>
@@ -258,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608561831759</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1.7">
+      <created>1609986913695</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609986913695</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +286,7 @@
     <MESSAGE value="12.19" />
     <MESSAGE value="12.20" />
     <MESSAGE value="12.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.21" />
+    <MESSAGE value="1.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.7" />
   </component>
 </project>

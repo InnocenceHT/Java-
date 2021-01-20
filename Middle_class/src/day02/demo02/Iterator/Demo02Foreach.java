@@ -47,7 +47,4 @@ public class Demo02Foreach {
             System.out.println(i);
         }
     }
-
-
-
 }
