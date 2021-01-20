@@ -19,24 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="1.7">
-      <change afterPath="$PROJECT_DIR$/basic_enforce/basic_enforce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_enforce/src/junit/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_enforce/src/junit/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_enforce/src/reflect/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_enforce/src/reflect/ReflectDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_enforce/src/reflect/ReflectDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_enforce/src/test/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html&amp;css/html&amp;css.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html&amp;css/src/img/4_css与HTML结合方式1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html&amp;css/src/img/4_css与HTML结合方式2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9008b5fb-b7d0-4aa0-908e-21e80325da7e" name="Default Changelist" comment="1.20">
+      <change afterPath="$PROJECT_DIR$/09_IOAndProperties/c.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo01Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo01Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo02Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day02/demo02/Iterator/Demo02Foreach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo01Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo01Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo02HashSetSaveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day03/demo02/Set/Demo02HashSetSaveString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middle_class/src/day03/demo03/hashCode/Demo01HashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middle_class/src/day03/demo03/hashCode/Demo01HashCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +141,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="4_css与HTML结合方式1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java-/html&amp;css/img/4_css与HTML结合方式1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -205,6 +201,10 @@
       <workItem from="1610719628662" duration="657000" />
       <workItem from="1611108751293" duration="3000" />
       <workItem from="1611119010829" duration="124000" />
+      <workItem from="1611120531098" duration="219000" />
+      <workItem from="1611120783878" duration="573000" />
+      <workItem from="1611121385241" duration="254000" />
+      <workItem from="1611122422857" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="12.16">
       <created>1608127088701</created>
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609986913695</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1.20">
+      <created>1611120558091</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611120558091</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +294,7 @@
     <MESSAGE value="12.20" />
     <MESSAGE value="12.21" />
     <MESSAGE value="1.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.7" />
+    <MESSAGE value="1.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.20" />
   </component>
 </project>
